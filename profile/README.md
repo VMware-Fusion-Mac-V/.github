@@ -25,7 +25,7 @@
 The <a href="#">hardware virtualization engine</a> uses the Mac's CPU virtualization extensions for near-native performance when running guest operating systems. Windows applications run at speeds that make them practical for real work rather than only occasional compatibility testing. <a href="#">Apple Silicon support</a> runs ARM versions of Windows 11 and Linux distributions at near-native performance through the Hypervisor framework on M-series Macs, while also supporting x86 emulation for Intel-based guest operating systems when ARM compatibility is not available.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/348690/m/vmware-fusion-screenshot.png?v=1668796275" alt="VMware Fusion screenshot"/>
+  <img src="https://vm-guru.com/content_images/vmware-fusion-12-2-1.png" alt="VMware Fusion screenshot"/>
 </p>
 
 <a href="#">Snapshot management</a> captures the complete state of a virtual machine at any moment — running applications, open files, network connections, and all — for instant rollback to that exact state. Test software installations, apply OS updates, or experiment with configuration changes with the ability to undo everything in seconds. <a href="#">Unity mode</a> integrates Windows applications directly into the macOS desktop, displaying Windows apps as native-looking windows alongside macOS applications without the Windows desktop environment visible — the integration that blurs the boundary between host and guest for daily use workflows.
